@@ -1,0 +1,163 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.14.1
+Flutter extension: 3.14.1 (not activated)
+
+App: Visual Studio Code - Insiders
+Remote: vsonline
+Version: 1.49.0-insider
+Platform: linux
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Thu Sep 17 2020 [13:14:56 GMT+0000 (Coordinated Universal Time)] Log file started
+[1:14:56 PM] [General] [Info] Searching for SDKs...
+[1:14:56 PM] [General] [Info] Environment PATH:
+[1:14:56 PM] [General] [Info]     /home/codespace/.vscode-remote/bin/e4256dd1a02339bb1d56647ecd9134bf38bc7c03/bin
+[1:14:56 PM] [General] [Info]     /usr/local/go/bin
+[1:14:56 PM] [General] [Info]     /usr/local/sdkman/candidates/maven/current/bin
+[1:14:56 PM] [General] [Info]     /usr/local/sdkman/candidates/java/current/bin
+[1:14:56 PM] [General] [Info]     /usr/local/sdkman/candidates/gradle/current/bin
+[1:14:56 PM] [General] [Info]     /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]     /opt/oryx
+[1:14:56 PM] [General] [Info]     /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]     /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]     /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]     /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]     /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]     /usr/local/rvm/gems/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]     /usr/local/rvm/gems/ruby-2.7.0@global/bin
+[1:14:56 PM] [General] [Info]     /usr/local/rvm/rubies/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]     /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]     /opt/oryx
+[1:14:56 PM] [General] [Info]     /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]     /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]     /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]     /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]     /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]     /usr/local/bin
+[1:14:56 PM] [General] [Info]     /usr/bin
+[1:14:56 PM] [General] [Info]     /bin
+[1:14:56 PM] [General] [Info]     /usr/local/games
+[1:14:56 PM] [General] [Info]     /usr/games
+[1:14:56 PM] [General] [Info]     /usr/local/rvm/bin
+[1:14:56 PM] [General] [Info]     /home/codespace/.local/bin
+[1:14:56 PM] [General] [Info] Found Flutter project at /home/codespace/workspace/HackInSampa3-Front:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[1:14:56 PM] [General] [Info] Searching for flutter
+[1:14:56 PM] [General] [Info]     Looking for flutter in:
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front/.flutter
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front/.flutter/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front/vendor/flutter
+[1:14:56 PM] [General] [Info]         /home/codespace/workspace/HackInSampa3-Front/vendor/flutter/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.vscode-remote/bin/e4256dd1a02339bb1d56647ecd9134bf38bc7c03/bin
+[1:14:56 PM] [General] [Info]         /usr/local/go/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/maven/current/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/java/current/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/gradle/current/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/bin
+[1:14:56 PM] [General] [Info]         /opt/oryx
+[1:14:56 PM] [General] [Info]         /opt/oryx/bin
+[1:14:56 PM] [General] [Info]         /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]         /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]         /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/gems/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/gems/ruby-2.7.0@global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/rubies/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/bin
+[1:14:56 PM] [General] [Info]         /opt/oryx
+[1:14:56 PM] [General] [Info]         /opt/oryx/bin
+[1:14:56 PM] [General] [Info]         /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]         /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]         /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/bin
+[1:14:56 PM] [General] [Info]         /usr/bin
+[1:14:56 PM] [General] [Info]         /bin
+[1:14:56 PM] [General] [Info]         /usr/local/games
+[1:14:56 PM] [General] [Info]         /usr/local/games/bin
+[1:14:56 PM] [General] [Info]         /usr/games
+[1:14:56 PM] [General] [Info]         /usr/games/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.local/bin
+[1:14:56 PM] [General] [Info]     Found at:
+[1:14:56 PM] [General] [Info]     Candidate paths to be post-filtered:
+[1:14:56 PM] [General] [Info]     Returning SDK path undefined for flutter
+[1:14:56 PM] [General] [Info] Searching for dart
+[1:14:56 PM] [General] [Info]     Looking for dart in:
+[1:14:56 PM] [General] [Info]         /home/codespace/.vscode-remote/bin/e4256dd1a02339bb1d56647ecd9134bf38bc7c03/bin
+[1:14:56 PM] [General] [Info]         /usr/local/go/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/maven/current/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/java/current/bin
+[1:14:56 PM] [General] [Info]         /usr/local/sdkman/candidates/gradle/current/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/bin
+[1:14:56 PM] [General] [Info]         /opt/oryx
+[1:14:56 PM] [General] [Info]         /opt/oryx/bin
+[1:14:56 PM] [General] [Info]         /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]         /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]         /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/gems/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/gems/ruby-2.7.0@global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/rubies/ruby-2.7.0/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/bin
+[1:14:56 PM] [General] [Info]         /opt/oryx
+[1:14:56 PM] [General] [Info]         /opt/oryx/bin
+[1:14:56 PM] [General] [Info]         /opt/nodejs/lts/bin
+[1:14:56 PM] [General] [Info]         /opt/python/latest/bin
+[1:14:56 PM] [General] [Info]         /opt/yarn/stable/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools
+[1:14:56 PM] [General] [Info]         /home/codespace/.dotnet/tools/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.npm-global/bin
+[1:14:56 PM] [General] [Info]         /usr/local/bin
+[1:14:56 PM] [General] [Info]         /usr/bin
+[1:14:56 PM] [General] [Info]         /bin
+[1:14:56 PM] [General] [Info]         /usr/local/games
+[1:14:56 PM] [General] [Info]         /usr/local/games/bin
+[1:14:56 PM] [General] [Info]         /usr/games
+[1:14:56 PM] [General] [Info]         /usr/games/bin
+[1:14:56 PM] [General] [Info]         /usr/local/rvm/bin
+[1:14:56 PM] [General] [Info]         /home/codespace/.local/bin
+[1:14:56 PM] [General] [Info]     Found at:
+[1:14:56 PM] [General] [Info]     Candidate paths to be post-filtered:
+[1:14:56 PM] [General] [Info]     Returning SDK path undefined for dart
+[1:14:56 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.14.1
+Flutter extension: 3.14.1 (not activated)
+
+App: Visual Studio Code - Insiders
+Remote: vsonline
+Version: 1.49.0-insider
+Platform: linux
+
+Workspace type: Flutter
+Analyzer type: DAS
+Multi-root?: false
+
+Dart SDK:
+    Loc: undefined
+    Ver: undefined
+Flutter SDK:
+    Loc: undefined
+    Ver: undefined
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
